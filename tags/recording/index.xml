@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recording | Grandine</title>
+    <link>/tags/recording/</link>
+      <atom:link href="/tags/recording/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recording</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Grandine Recocrds © 2020</copyright><lastBuildDate>Fri, 15 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_huf09cb040db75a3f754c131e3be6db1c5_124278_300x300_fit_lanczos_2.png</url>
+      <title>Recording</title>
+      <link>/tags/recording/</link>
+    </image>
+    
+    <item>
+      <title>Sessione di video recording live @ Cabot Cove</title>
+      <link>/event/20191115-videorecording-at-cabot/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/event/20191115-videorecording-at-cabot/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Inserire la descrizione della due giorni&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

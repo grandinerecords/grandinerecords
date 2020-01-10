@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Grandine</title>
+    <link>/tags/</link>
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Grandine Recocrds © 2020</copyright><lastBuildDate>Fri, 15 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_huf09cb040db75a3f754c131e3be6db1c5_124278_300x300_fit_lanczos_2.png</url>
+      <title>Tags</title>
+      <link>/tags/</link>
+    </image>
+    
+    <item>
+      <title>Photo</title>
+      <link>/tags/photo/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/photo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recording</title>
+      <link>/tags/recording/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/recording/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video</title>
+      <link>/tags/video/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/video/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genere1</title>
+      <link>/tags/genere1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/genere1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genere2</title>
+      <link>/tags/genere2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/genere2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genere3</title>
+      <link>/tags/genere3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/genere3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sala prove</title>
+      <link>/tags/sala-prove/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/sala-prove/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Design</title>
+      <link>/tags/web-design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/web-design/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
