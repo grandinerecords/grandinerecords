@@ -35,7 +35,7 @@
   
   
   
-  <meta name="theme-color" content="rgb(0, 136, 204)">
+  <meta name="theme-color" content="#212529">
   
 
   
@@ -180,7 +180,7 @@
   
   
   
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=B612+Mono:400,700%7COrbitron:400,700&display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Major+Mono+Display%7CNova+Mono&display=swap">
   
 
   
@@ -248,15 +248,6 @@
   
   
   
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "Via Franco Bolognese, 29",
-    "addressLocality": "Bologna",
-    "addressRegion": "Italia",
-    "postalCode": "40129",
-    "addressCountry": "IT"
-  },
-  
   "telephone": "+39 051 0000000",
   "url": "/"
 }
@@ -266,6 +257,36 @@
 
 
   
+  
+  
+  
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.js" integrity="sha256-5VhCqFam2Cn+yjw61zbBNrbHVJ6SRydPeKopYlngbiQ=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.css" integrity="sha256-zQ0LblD/Af8vOppw18+2anxsuaz3pWYyVWi+bTvTH8Q=" crossorigin="anonymous">
+  
+  <script>
+  window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#212529",
+          "text": "#fff"
+        },
+        "button": {
+          "background": "#fff",
+          "text": "#212529"
+        }
+      },
+      "theme": "classic",
+      "content": {
+        "message": "This website uses cookies to ensure you get the best experience on our website.",
+        "dismiss": "Got it!",
+        "link": "Learn more",
+        "href": "https://www.cookiesandyou.com"
+      }
+    })});
+  </script>
+
 
 
   
@@ -278,7 +299,7 @@
 
 </head>
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#navbar-main" class="dark">
+<body id="top" data-spy="scroll" data-offset="70" data-target="#navbar-main" >
 
   <aside class="search-results" id="search">
   <div class="container">
@@ -516,8 +537,6 @@
 
 
   
-
-
 
 
 
@@ -1366,7 +1385,7 @@
       
       <li>
         <i class="fa-li fas fa-envelope fa-2x" aria-hidden="true"></i>
-        <span id="person-email"><a href="mailto:mybeautyfullmail@mail.com">mybeautyfullmail@mail.com</a></span>
+        <span id="person-email"><a href="mailto:collettivograndinw@gmail.com">collettivograndinw@gmail.com</a></span>
       </li>
       
 
@@ -1378,12 +1397,6 @@
       
 
       
-      
-        
-        <li>
-          <i class="fa-li fas fa-map-marker fa-2x" aria-hidden="true"></i>
-          <span id="person-address">Via Franco Bolognese, 29, Bologna, Italia, 40129</span>
-        </li>
       
 
       
@@ -1432,7 +1445,7 @@
       <input id="map-provider" value="2">
       <input id="map-lat" value="44.498955">
       <input id="map-lng" value="11.327591">
-      <input id="map-dir" value="Via Franco Bolognese, 29, Bologna, Italia, 40129">
+      <input id="map-dir" value="">
       <input id="map-zoom" value="16">
       <input id="map-api-key" value="">
     </div>
