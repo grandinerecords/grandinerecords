@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/event/</loc>
+    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/event/</loc>
     <lastmod>2019-11-15T00:00:00+00:00</lastmod>
   </url>
@@ -18,11 +28,6 @@
   </url>
   
   <url>
-    <loc>/tags/recording/</loc>
-    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/event/20191115-videorecording-at-cabot/</loc>
     <lastmod>2019-11-15T00:00:00+00:00</lastmod>
   </url>
@@ -33,12 +38,12 @@
   </url>
   
   <url>
-    <loc>/tags/video/</loc>
+    <loc>/tags/video-recording/</loc>
     <lastmod>2019-11-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>/categories/band/</loc>
   </url>
   
   <url>
@@ -50,7 +55,7 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/categories/collaborator/</loc>
   </url>
   
   <url>
@@ -98,10 +103,6 @@
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-  </url>
-  
-  <url>
     <loc>/tags/sala-prove/</loc>
   </url>
   
@@ -111,6 +112,10 @@
   
   <url>
     <loc>/band/super-fat-ginger-cat/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/video/</loc>
   </url>
   
   <url>
