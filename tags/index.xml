@@ -37,6 +37,14 @@
     </item>
     
     <item>
+      <title>Desert</title>
+      <link>/tags/desert/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/desert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Genere1</title>
       <link>/tags/genere1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -61,10 +69,26 @@
     </item>
     
     <item>
+      <title>Psychedelic</title>
+      <link>/tags/psychedelic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/psychedelic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Sala prove</title>
       <link>/tags/sala-prove/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/tags/sala-prove/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stoner</title>
+      <link>/tags/stoner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/stoner/</guid>
       <description></description>
     </item>
     

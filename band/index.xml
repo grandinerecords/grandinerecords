@@ -193,7 +193,7 @@
     </item>
     
     <item>
-      <title>super Fat Ginger Cat</title>
+      <title>Super Fat Ginger Cat</title>
       <link>/band/super-fat-ginger-cat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/band/super-fat-ginger-cat/</guid>
@@ -234,6 +234,46 @@
 
 
 &lt;h1 id=&#34;image-gallery-if-needed&#34;&gt;Image gallery if needed&lt;/h1&gt;
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/band/super-fat-ginger-cat/gallery/featured.jpg&#34; &gt;
+  &lt;img data-src=&#34;/band/super-fat-ginger-cat/gallery/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_224363_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/band/super-fat-ginger-cat/gallery/featured_2.jpg&#34; &gt;
+  &lt;img data-src=&#34;/band/super-fat-ginger-cat/gallery/featured_2_hu41af2d069cef2f318c61d1b7d9643cd3_41170_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
 </description>
     </item>
     
