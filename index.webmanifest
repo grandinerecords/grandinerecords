@@ -2,8 +2,8 @@
   "name": "Grandine Records",
   "short_name": "Grandine Records",
   "lang": "en-us",
-  "theme_color": "#212529",
-  "background_color": "#212529",
+  "theme_color": "rgb(0, 136, 204)",
+  "background_color": "rgb(0, 136, 204)",
   "icons": [{
     "src": "/images/icon_huf09cb040db75a3f754c131e3be6db1c5_124278_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",

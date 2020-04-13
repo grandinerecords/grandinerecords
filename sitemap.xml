@@ -43,6 +43,10 @@
   </url>
   
   <url>
+    <loc>/tags/alternative/</loc>
+  </url>
+  
+  <url>
     <loc>/categories/band/</loc>
   </url>
   
@@ -67,19 +71,15 @@
   </url>
   
   <url>
+    <loc>/tags/design/</loc>
+  </url>
+  
+  <url>
     <loc>/band/dos-cabrones/</loc>
   </url>
   
   <url>
-    <loc>/tags/genere1/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/genere2/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/genere3/</loc>
+    <loc>/tags/fuzz/</loc>
   </url>
   
   <url>
@@ -87,7 +87,19 @@
   </url>
   
   <url>
+    <loc>/tags/graphics/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/groove/</loc>
+  </url>
+  
+  <url>
     <loc>/band/grufus/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/grunge/</loc>
   </url>
   
   <url>
@@ -99,11 +111,59 @@
   </url>
   
   <url>
+    <loc>/tags/mastering/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/math/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/mathcore/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/mescaline/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/metal/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/noise/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/post-hardcore/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/power/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/psych/</loc>
+  </url>
+  
+  <url>
     <loc>/tags/psychedelic/</loc>
   </url>
   
   <url>
+    <loc>/tags/recording/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/rock/</loc>
+  </url>
+  
+  <url>
     <loc>/tags/sala-prove/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/sludge/</loc>
   </url>
   
   <url>
@@ -115,11 +175,23 @@
   </url>
   
   <url>
+    <loc>/tags/tribalcore/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/trio/</loc>
+  </url>
+  
+  <url>
     <loc>/tags/video/</loc>
   </url>
   
   <url>
-    <loc>/tags/web-design/</loc>
+    <loc>/tags/violent/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/weird/</loc>
   </url>
   
 </urlset>

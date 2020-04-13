@@ -5,7 +5,7 @@
     <link>/categories/band/</link>
       <atom:link href="/categories/band/index.xml" rel="self" type="application/rss+xml" />
     <description>Band</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Grandine Recocrds © 2020</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Grandine Recocrds© 2020</copyright>
     <image>
       <url>/images/logo_huf09cb040db75a3f754c131e3be6db1c5_124278_300x300_fit_lanczos_2.png</url>
       <title>Band</title>
@@ -19,41 +19,91 @@
       <guid>/band/dos-cabrones/</guid>
       <description>
 
-&lt;h1 id=&#34;short-biography&#34;&gt;Short Biography&lt;/h1&gt;
+&lt;p&gt;I Dos Cabrones nascono da un’idea di Marco e Riccardo nel &lt;strong&gt;2017&lt;/strong&gt; dopo un incontro occasionale davanti a una birra. Subito il progetto prende la strada della composizione di brani inediti con spiccate influenze grunge, sludge, stoner e noise.&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;I brani vengono scritti a quattro mani durante le &lt;strong&gt;session settimanali&lt;/strong&gt; puntando sull’istinto e l’alchimia creatasi tra i due membri. Riccardo alla batteria e Marco alla chitarra creano tipici &lt;strong&gt;muri di suono&lt;/strong&gt; e &lt;strong&gt;ritmi incalzanti&lt;/strong&gt;, arricchiti da samples e loops, caratteristici del sound che li influenza (Melvins, Jesus Lizard, Helmet, Unsane, Zu, Shellac &amp;amp; more….).&lt;/p&gt;
 
-&lt;h1 id=&#34;collaboration-purpose&#34;&gt;Collaboration Purpose&lt;/h1&gt;
+&lt;p&gt;Lo &lt;strong&gt;scopo&lt;/strong&gt; del duo è quello di portare live le esperienze e le sensazioni vissute in sala prove: appagamento personale e comunicazione dei propri stati d’animo. Sono infatti queste due caratteristiche ad alimentare i Dos
+Cabrones a spingersi sempre oltre.&lt;/p&gt;
 
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;hr /&gt;
 
-&lt;h2 id=&#34;video-recording-session-cabot-cove&#34;&gt;&lt;strong&gt;Video recording session @ Cabot Cove&lt;/strong&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;componenti&#34;&gt;Componenti:&lt;/h2&gt;
 
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Marco (Chitarra, Samples);&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Riccardo (Batteria, Samples);&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;made-together&#34;&gt;Made together:&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Video recording session @ Cabot Cove&lt;/strong&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/video-Id&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-
-&lt;h1 id=&#34;listen-section&#34;&gt;Listen Section&lt;/h1&gt;
-
-&lt;p&gt;Insert here a spotify or soundcloud user link
-
-  &lt;div class=&#34;card-simple&#34;&gt;
-    &lt;h5 class=&#34;card-title&#34;&gt;Listen on Spotify&lt;/h5&gt;
-    &lt;iframe width=&#34;100%&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34; src=&#34;https://open.spotify.com/embed/artist/your-account-id&#34;&gt;&lt;/iframe&gt;
-  &lt;/div&gt;
-
+  &lt;iframe src=&#34;https://player.vimeo.com/video/video-Id&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
 &lt;/p&gt;
 
+&lt;h3 id=&#34;listen&#34;&gt;Listen:&lt;/h3&gt;
 
-&lt;div class=&#34;card-simple&#34;&gt;
-  &lt;h5 class=&#34;card-title&#34;&gt;Listen on Soundcloud&lt;/h5&gt;
-  &lt;iframe width=&#34;100%&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/your-account-id&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=false&amp;show_reposts=false&amp;show_teaser=false&amp;visual=true&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+&lt;!-- Insert here a spotify or soundcloud user link  --&gt;
+
+&lt;iframe width=&#34;100%&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34; src=&#34;https://open.spotify.com/embed/artist/11KtyYLoqHmNxuPqHiBmGo?si=PJ5F5ozYRLiU4F8SCo1KaQ&#34;&gt;&lt;/iframe&gt;
 
 
-&lt;h1 id=&#34;image-gallery-if-needed&#34;&gt;Image gallery if needed&lt;/h1&gt;
+&lt;hr /&gt;
+
+&lt;!-- # Image gallery if needed  --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Grufus</title>
+      <link>/band/grufus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/band/grufus/</guid>
+      <description>
+
+&lt;p&gt;I GRUFUS nascono a fine 2017 in un garage bolognese da un incontro puramente casuale dei futuri membri della band, ognuno con influenze e gusti diversi ma con unʼattitudine comune. Dopo i primi mesi passati in sala prove partoriscono i primi pezzi che confluiranno nella demo “Watt Emporium”, il sound che ne viene fuori, completamente &lt;strong&gt;strumentale&lt;/strong&gt;, unisce componenti del noise con riff potenti e ritmiche incalzanti.&lt;/p&gt;
+
+&lt;p&gt;Si fanno notare sulla scena locale condividendo il palco con Morkobot, Mood, Cani dei Portici, Lleroy, Carmona Retusa e molti altri finendo nel 2018 per aprire il Krakatoa Fest nel main stage.&lt;/p&gt;
+
+&lt;p&gt;Avendo rodato liberamente il loro flusso di coscienza sui palchi del nord Italia, ne segue un periodo di chiusura al Vacuum studio con il sound engineer Enrico Baraldi, che li aiuta in questa prima produzione a rielaborare alcuni pezzi di &amp;ldquo;Watt Emporium&amp;rdquo; aggiungendo nuove idee e metriche &lt;strong&gt;math&lt;/strong&gt; ancora più spinose. Il risultato che ne consegue è di un sound viscerale, carico di &lt;strong&gt;groove&lt;/strong&gt; e mancanza di schemi accuratamente miscelata che confluirà nel primo album “Sabor Latino”, in uscita a fine primavera 2020.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;componenti&#34;&gt;Componenti:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Diego (chitarra);&lt;/li&gt;
+&lt;li&gt;Lorenzo (Chitarra);&lt;/li&gt;
+&lt;li&gt;Nicola (Basso);&lt;/li&gt;
+&lt;li&gt;Paolo (Batteria);&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;made-together&#34;&gt;Made together:&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Video recording session @ Cabot Cove&lt;/strong&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/video-Id&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;!-- ### Listen: --&gt;
+
+&lt;!-- Insert here a spotify or soundcloud user link  --&gt;
+
+&lt;!-- &lt;iframe width=&#34;100%&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34; src=&#34;https://open.spotify.com/embed/artist/11KtyYLoqHmNxuPqHiBmGo?si=PJ5F5ozYRLiU4F8SCo1KaQ&#34;&gt;&lt;/iframe&gt;
+ --&gt;
+
+&lt;hr /&gt;
+
+&lt;!-- # Image gallery if needed  --&gt;
 </description>
     </item>
     
@@ -64,41 +114,172 @@
       <guid>/band/hate-limbs/</guid>
       <description>
 
-&lt;h1 id=&#34;short-biography&#34;&gt;Short Biography&lt;/h1&gt;
+&lt;p&gt;HateLimbs è un giovane trio romano attivo dalla primavera del 2019. La loro musica è una visione &lt;strong&gt;distorta e variopinta&lt;/strong&gt; di post-hardcore strumentale, che incorpora influenze e registri contrari in un unico flusso di rumori dall’&lt;strong&gt;andamento lunatico&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Il loro primo Ep, registrato mixato e masterizzato all’Hombrelobo Studio da Valerio Fisik, vedrà la luce dopo l’estate 2020.&lt;/p&gt;
 
-&lt;h1 id=&#34;collaboration-purpose&#34;&gt;Collaboration Purpose&lt;/h1&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;h2 id=&#34;componenti&#34;&gt;Componenti:&lt;/h2&gt;
 
-&lt;h2 id=&#34;video-recording-session-cabot-cove&#34;&gt;&lt;strong&gt;Video recording session @ Cabot Cove&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Corrado Mazzaglia - Batteria;&lt;/li&gt;
+&lt;li&gt;Giorgio Figà Talamanca - Basso;&lt;/li&gt;
+&lt;li&gt;Giangiacomo Gallo - Chitarra / Live Electronics;&lt;/li&gt;
+&lt;/ul&gt;
 
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;made-together&#34;&gt;Made together:&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Video recording session @ Cabot Cove&lt;/strong&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/video-Id&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-
-&lt;h1 id=&#34;listen-section&#34;&gt;Listen Section&lt;/h1&gt;
-
-&lt;p&gt;Insert here a spotify or soundcloud user link
-
-  &lt;div class=&#34;card-simple&#34;&gt;
-    &lt;h5 class=&#34;card-title&#34;&gt;Listen on Spotify&lt;/h5&gt;
-    &lt;iframe width=&#34;100%&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34; src=&#34;https://open.spotify.com/embed/artist/your-account-id&#34;&gt;&lt;/iframe&gt;
-  &lt;/div&gt;
-
+  &lt;iframe src=&#34;https://player.vimeo.com/video/video-Id&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
 &lt;/p&gt;
 
-
-&lt;div class=&#34;card-simple&#34;&gt;
-  &lt;h5 class=&#34;card-title&#34;&gt;Listen on Soundcloud&lt;/h5&gt;
-  &lt;iframe width=&#34;100%&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/your-account-id&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=false&amp;show_reposts=false&amp;show_teaser=false&amp;visual=true&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Listen&lt;/strong&gt;&lt;/p&gt;
 
 
-&lt;h1 id=&#34;image-gallery-if-needed&#34;&gt;Image gallery if needed&lt;/h1&gt;
+&lt;iframe width=&#34;100%&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/620481444&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=false&amp;show_reposts=false&amp;show_teaser=false&amp;visual=true&#34;&gt;&lt;/iframe&gt;
+
+
+&lt;hr /&gt;
+
+&lt;!-- # Image gallery if needed  --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Iqonde</title>
+      <link>/band/iqonde/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/band/iqonde/</guid>
+      <description>
+
+&lt;p&gt;&amp;quot;Dritto&amp;quot; è l&amp;#39;aggettivo che spesso usiamo per descrivere un ritmo &lt;strong&gt;martellante&lt;/strong&gt;, &lt;strong&gt;percussivo&lt;/strong&gt;, che ci colpisce in faccia e ci stordisce.&lt;/p&gt;
+
+&lt;p&gt;Gli Iqonde nascono dalla devozione a questo principio e la loro musica si snoda in un immaginario fatto di &lt;strong&gt;frenetiche cadenze primitive&lt;/strong&gt;, danze tribali e distensioni rarefatte.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;componenti&#34;&gt;Componenti:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Marco - Batteria;&lt;/li&gt;
+&lt;li&gt;Francesco - Chitarra/Samples;&lt;/li&gt;
+&lt;li&gt;Diego - Bass/Samples;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;made-together&#34;&gt;Made together:&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Video recording session @ Cabot Cove&lt;/strong&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/video-Id&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Listen&lt;/strong&gt;&lt;/p&gt;
+
+&lt;!-- 
+&lt;iframe width=&#34;100%&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/620481444&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=false&amp;show_reposts=false&amp;show_teaser=false&amp;visual=true&#34;&gt;&lt;/iframe&gt;
+ --&gt;
+
+&lt;hr /&gt;
+
+&lt;!-- # Image gallery if needed  --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Super Fat Ginger Cat</title>
+      <link>/band/super-fat-ginger-cat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/band/super-fat-ginger-cat/</guid>
+      <description>
+
+&lt;!-- Insert Bio here --&gt;
+
+&lt;p&gt;I Super Fat Ginger Cat sono un trio bolognese. La loro musica prende vita in uno scantinato muffoso grazie ad intense &lt;strong&gt;jam session&lt;/strong&gt; nelle quali si alternano riff &lt;strong&gt;fuzzosi&lt;/strong&gt; ad atmosfere più intime e dilatate.&lt;/p&gt;
+
+&lt;p&gt;Il sound dei SFGC, &lt;strong&gt;introspettivo&lt;/strong&gt; e &lt;strong&gt;psichedelico&lt;/strong&gt;, evoca gli scenari desolati tipici del desert rock californiano e dello stoner rock di matrice più europea, ma al tempo stesso, spinto dalle diverse influenze musicali dei singoli componenti, cerca di andare oltre le definizioni di genere.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;componenti&#34;&gt;Componenti:&lt;/h2&gt;
+
+&lt;!-- * Nome componente - Strumento/i --&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Marco - Batteria;&lt;/li&gt;
+&lt;li&gt;Andrea - Basso;&lt;/li&gt;
+&lt;li&gt;Kate - Chitarra/Voce;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;made-together&#34;&gt;Made together:&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Video recording session @ Cabot Cove&lt;/strong&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/video-Id&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Listen&lt;/strong&gt;&lt;/p&gt;
+
+&lt;!-- 
+&lt;iframe width=&#34;100%&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/embedded%20user%20id&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=false&amp;show_reposts=false&amp;show_teaser=false&amp;visual=true&#34;&gt;&lt;/iframe&gt;
+ --&gt;
+
+&lt;hr /&gt;
+
+&lt;!-- # Image gallery if needed  --&gt;
+
+&lt;!-- 
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/band/super-fat-ginger-cat/gallery/featured.jpg&#34; &gt;
+  &lt;img data-src=&#34;/band/super-fat-ginger-cat/gallery/featured_hu41af2d069cef2f318c61d1b7d9643cd3_41170_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;502&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/band/super-fat-ginger-cat/gallery/featured_2.jpg&#34; &gt;
+  &lt;img data-src=&#34;/band/super-fat-ginger-cat/gallery/featured_2_hu41af2d069cef2f318c61d1b7d9643cd3_41170_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;502&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt; --&gt;
 </description>
     </item>
     
