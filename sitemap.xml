@@ -55,15 +55,7 @@
   </url>
   
   <url>
-    <loc>/collaborator/cabot-cove/</loc>
-  </url>
-  
-  <url>
-    <loc>/categories/collaborator/</loc>
-  </url>
-  
-  <url>
-    <loc>/collaborator/</loc>
+    <loc>/partners/cabot-cove/</loc>
   </url>
   
   <url>
@@ -83,7 +75,7 @@
   </url>
   
   <url>
-    <loc>/collaborator/ginevra/</loc>
+    <loc>/partners/ginevra/</loc>
   </url>
   
   <url>
@@ -132,6 +124,14 @@
   
   <url>
     <loc>/tags/noise/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/partner/</loc>
+  </url>
+  
+  <url>
+    <loc>/partners/</loc>
   </url>
   
   <url>
