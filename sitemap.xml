@@ -43,7 +43,34 @@
   </url>
   
   <url>
+    <loc>/release/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/release/album-title/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/source-themes/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>/partners/</loc>
+  </url>
+  
+  <url>
     <loc>/tags/alternative/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
   </url>
   
   <url>
@@ -128,10 +155,6 @@
   
   <url>
     <loc>/categories/partner/</loc>
-  </url>
-  
-  <url>
-    <loc>/partners/</loc>
   </url>
   
   <url>
