@@ -24,6 +24,14 @@ Lorem ipsum &amp;hellip;&lt;/p&gt;
     
     <item>
       <title>Album title</title>
+      <link>/release/album-title-2/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>/release/album-title-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Album title</title>
       <link>/release/album-title/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       <guid>/release/album-title/</guid>
@@ -31,34 +39,10 @@ Lorem ipsum &amp;hellip;&lt;/p&gt;
     </item>
     
     <item>
-      <title></title>
+      <title>Bands</title>
       <link>/bands/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/bands/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/events/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/events/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/partners/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/partners/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/releases/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/releases/</guid>
       <description></description>
     </item>
     
@@ -147,6 +131,14 @@ Cabrones a spingersi sempre oltre.&lt;/p&gt;
 
 &lt;!-- # Image gallery if needed  --&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Events</title>
+      <link>/events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/events/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -323,6 +315,22 @@ Cabrones a spingersi sempre oltre.&lt;/p&gt;
 
 &lt;!-- # Image gallery if needed  --&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Partners</title>
+      <link>/partners/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/partners/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Releases</title>
+      <link>/releases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/releases/</guid>
+      <description></description>
     </item>
     
     <item>

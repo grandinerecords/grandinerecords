@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>/release/album-title-2/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/release/album-title/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
@@ -36,22 +41,6 @@
   </url>
   
   <url>
-    <loc>/bands/</loc>
-  </url>
-  
-  <url>
-    <loc>/events/</loc>
-  </url>
-  
-  <url>
-    <loc>/partners/</loc>
-  </url>
-  
-  <url>
-    <loc>/releases/</loc>
-  </url>
-  
-  <url>
     <loc>/authors/</loc>
   </url>
   
@@ -60,11 +49,19 @@
   </url>
   
   <url>
+    <loc>/bands/</loc>
+  </url>
+  
+  <url>
     <loc>/partner/cabot-cove/</loc>
   </url>
   
   <url>
     <loc>/band/dos-cabrones/</loc>
+  </url>
+  
+  <url>
+    <loc>/events/</loc>
   </url>
   
   <url>
@@ -85,6 +82,14 @@
   
   <url>
     <loc>/partner/</loc>
+  </url>
+  
+  <url>
+    <loc>/partners/</loc>
+  </url>
+  
+  <url>
+    <loc>/releases/</loc>
   </url>
   
   <url>

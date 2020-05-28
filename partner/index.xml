@@ -13,14 +13,6 @@
     </image>
     
     <item>
-      <title></title>
-      <link>/partners/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/partners/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Cabot Cove</title>
       <link>/partner/cabot-cove/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -98,6 +90,14 @@
 
 &lt;!-- # Image gallery if needed  --&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Partners</title>
+      <link>/partners/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/partners/</guid>
+      <description></description>
     </item>
     
   </channel>
