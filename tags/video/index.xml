@@ -5,18 +5,18 @@
     <link>/tags/video/</link>
       <atom:link href="/tags/video/index.xml" rel="self" type="application/rss+xml" />
     <description>video</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Grandine Recocrds© 2020</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Grandine Records© 2020</copyright>
     <image>
-      <url>/images/logo_huf5a42beb3af8244dd94247ae5da5c590_356444_300x300_fit_lanczos_2.png</url>
+      <url>/img/headers/logo.png</url>
       <title>video</title>
       <link>/tags/video/</link>
     </image>
     
     <item>
       <title>Ginevra Romagnoli</title>
-      <link>/partners/ginevra/</link>
+      <link>/partner/ginevra/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/partners/ginevra/</guid>
+      <guid>/partner/ginevra/</guid>
       <description>
 
 &lt;!-- Bio --&gt;

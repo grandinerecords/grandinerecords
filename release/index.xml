@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Album &amp; EP release | Grandine Records</title>
+    <title>Releases | Grandine Records</title>
     <link>/release/</link>
       <atom:link href="/release/index.xml" rel="self" type="application/rss+xml" />
-    <description>Album &amp; EP release</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Grandine Recocrds© 2020</copyright><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <description>Releases</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Grandine Records© 2020</copyright><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/headers/Logotitolo1.png</url>
-      <title>Album &amp; EP release</title>
+      <url>/img/headers/logo.png</url>
+      <title>Releases</title>
       <link>/release/</link>
     </image>
     
@@ -17,6 +17,14 @@
       <link>/release/album-title/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       <guid>/release/album-title/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/releases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/releases/</guid>
       <description></description>
     </item>
     

@@ -5,12 +5,20 @@
     <link>/band/</link>
       <atom:link href="/band/index.xml" rel="self" type="application/rss+xml" />
     <description>Bands</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Grandine Recocrds© 2020</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Grandine Records© 2020</copyright>
     <image>
-      <url>/images/logo_huf5a42beb3af8244dd94247ae5da5c590_356444_300x300_fit_lanczos_2.png</url>
+      <url>/img/headers/logo.png</url>
       <title>Bands</title>
       <link>/band/</link>
     </image>
+    
+    <item>
+      <title></title>
+      <link>/bands/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/bands/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dos Cabrones</title>
@@ -31,8 +39,8 @@ Cabrones a spingersi sempre oltre.&lt;/p&gt;
 &lt;h2 id=&#34;componenti&#34;&gt;Componenti:&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Marco (Chitarra, Samples);&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Riccardo (Batteria, Samples);&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Marco - Chitarra, Samples;&lt;/li&gt;
+&lt;li&gt;Riccardo - Batteria, Samples;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
@@ -77,10 +85,10 @@ Cabrones a spingersi sempre oltre.&lt;/p&gt;
 &lt;h2 id=&#34;componenti&#34;&gt;Componenti:&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Diego (chitarra);&lt;/li&gt;
-&lt;li&gt;Lorenzo (Chitarra);&lt;/li&gt;
-&lt;li&gt;Nicola (Basso);&lt;/li&gt;
-&lt;li&gt;Paolo (Batteria);&lt;/li&gt;
+&lt;li&gt;Diego - Chitarra;&lt;/li&gt;
+&lt;li&gt;Lorenzo - Chitarra;&lt;/li&gt;
+&lt;li&gt;Nicola - Basso;&lt;/li&gt;
+&lt;li&gt;Paolo - Batteria;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
@@ -168,8 +176,8 @@ Cabrones a spingersi sempre oltre.&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Marco - Batteria;&lt;/li&gt;
-&lt;li&gt;Francesco - Chitarra/Samples;&lt;/li&gt;
-&lt;li&gt;Diego - Bass/Samples;&lt;/li&gt;
+&lt;li&gt;Francesco - Chitarra / Samples;&lt;/li&gt;
+&lt;li&gt;Diego - Bass / Samples;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
@@ -183,7 +191,7 @@ Cabrones a spingersi sempre oltre.&lt;/p&gt;
  &lt;/div&gt;
 &lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Listen&lt;/strong&gt;&lt;/p&gt;
+&lt;!-- **Listen** --&gt;
 
 &lt;!-- 
 &lt;iframe width=&#34;100%&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/620481444&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=false&amp;show_reposts=false&amp;show_teaser=false&amp;visual=true&#34;&gt;&lt;/iframe&gt;
@@ -215,9 +223,9 @@ Cabrones a spingersi sempre oltre.&lt;/p&gt;
 &lt;!-- * Nome componente - Strumento/i --&gt;
 
 &lt;ul&gt;
+&lt;li&gt;Caterina - Chitarra/Voce;&lt;/li&gt;
 &lt;li&gt;Marco - Batteria;&lt;/li&gt;
 &lt;li&gt;Andrea - Basso;&lt;/li&gt;
-&lt;li&gt;Kate - Chitarra/Voce;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
@@ -231,7 +239,7 @@ Cabrones a spingersi sempre oltre.&lt;/p&gt;
  &lt;/div&gt;
 &lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Listen&lt;/strong&gt;&lt;/p&gt;
+&lt;!-- **Listen** --&gt;
 
 &lt;!-- 
 &lt;iframe width=&#34;100%&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/embedded%20user%20id&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=false&amp;show_reposts=false&amp;show_teaser=false&amp;visual=true&#34;&gt;&lt;/iframe&gt;

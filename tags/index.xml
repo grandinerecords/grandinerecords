@@ -5,66 +5,18 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Grandine Recocrds© 2020</copyright><lastBuildDate>Fri, 15 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Grandine Records© 2020</copyright>
     <image>
-      <url>/images/logo_huf5a42beb3af8244dd94247ae5da5c590_356444_300x300_fit_lanczos_2.png</url>
+      <url>/img/headers/logo.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
-    
-    <item>
-      <title>Photo</title>
-      <link>/tags/photo/</link>
-      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/photo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Video Recording</title>
-      <link>/tags/video-recording/</link>
-      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/video-recording/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Source Themes</title>
-      <link>/tags/source-themes/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>/tags/source-themes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>alternative</title>
-      <link>/tags/alternative/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/alternative/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>desert</title>
-      <link>/tags/desert/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/desert/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>design</title>
       <link>/tags/design/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/tags/design/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>fuzz</title>
-      <link>/tags/fuzz/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/fuzz/</guid>
       <description></description>
     </item>
     
@@ -77,22 +29,6 @@
     </item>
     
     <item>
-      <title>groove</title>
-      <link>/tags/groove/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/groove/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>grunge</title>
-      <link>/tags/grunge/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/grunge/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>mastering</title>
       <link>/tags/mastering/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -101,74 +37,10 @@
     </item>
     
     <item>
-      <title>math</title>
-      <link>/tags/math/</link>
+      <title>photo</title>
+      <link>/tags/photo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/math/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mathcore</title>
-      <link>/tags/mathcore/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/mathcore/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mescaline</title>
-      <link>/tags/mescaline/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/mescaline/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>metal</title>
-      <link>/tags/metal/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/metal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>noise</title>
-      <link>/tags/noise/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/noise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>post-hardcore</title>
-      <link>/tags/post-hardcore/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/post-hardcore/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>power</title>
-      <link>/tags/power/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/power/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>psych</title>
-      <link>/tags/psych/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/psych/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>psychedelic</title>
-      <link>/tags/psychedelic/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/psychedelic/</guid>
+      <guid>/tags/photo/</guid>
       <description></description>
     </item>
     
@@ -181,14 +53,6 @@
     </item>
     
     <item>
-      <title>rock</title>
-      <link>/tags/rock/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/rock/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>sala prove</title>
       <link>/tags/sala-prove/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -197,58 +61,10 @@
     </item>
     
     <item>
-      <title>sludge</title>
-      <link>/tags/sludge/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/sludge/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>stoner</title>
-      <link>/tags/stoner/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/stoner/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tribalcore</title>
-      <link>/tags/tribalcore/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/tribalcore/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>trio</title>
-      <link>/tags/trio/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/trio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>video</title>
       <link>/tags/video/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/tags/video/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>violent</title>
-      <link>/tags/violent/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/violent/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>weird</title>
-      <link>/tags/weird/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/weird/</guid>
       <description></description>
     </item>
     

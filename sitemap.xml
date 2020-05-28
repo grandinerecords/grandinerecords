@@ -3,16 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/event/</loc>
-    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/event/</loc>
     <lastmod>2019-11-15T00:00:00+00:00</lastmod>
   </url>
@@ -23,28 +13,8 @@
   </url>
   
   <url>
-    <loc>/tags/photo/</loc>
-    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/event/20191115-videorecording-at-cabot/</loc>
     <lastmod>2019-11-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/video-recording/</loc>
-    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/release/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -53,7 +23,7 @@
   </url>
   
   <url>
-    <loc>/tags/source-themes/</loc>
+    <loc>/release/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -62,11 +32,23 @@
   </url>
   
   <url>
+    <loc>/authors/admin/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>/bands/</loc>
+  </url>
+  
+  <url>
+    <loc>/events/</loc>
+  </url>
+  
+  <url>
     <loc>/partners/</loc>
   </url>
   
   <url>
-    <loc>/tags/alternative/</loc>
+    <loc>/releases/</loc>
   </url>
   
   <url>
@@ -74,23 +56,11 @@
   </url>
   
   <url>
-    <loc>/categories/band/</loc>
-  </url>
-  
-  <url>
     <loc>/band/</loc>
   </url>
   
   <url>
-    <loc>/partners/cabot-cove/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/desert/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/design/</loc>
+    <loc>/partner/cabot-cove/</loc>
   </url>
   
   <url>
@@ -98,27 +68,11 @@
   </url>
   
   <url>
-    <loc>/tags/fuzz/</loc>
-  </url>
-  
-  <url>
-    <loc>/partners/ginevra/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/graphics/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/groove/</loc>
+    <loc>/partner/ginevra/</loc>
   </url>
   
   <url>
     <loc>/band/grufus/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/grunge/</loc>
   </url>
   
   <url>
@@ -130,91 +84,11 @@
   </url>
   
   <url>
-    <loc>/tags/mastering/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/math/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/mathcore/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/mescaline/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/metal/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/noise/</loc>
-  </url>
-  
-  <url>
-    <loc>/categories/partner/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/post-hardcore/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/power/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/psych/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/psychedelic/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/recording/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/rock/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/sala-prove/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/sludge/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/stoner/</loc>
+    <loc>/partner/</loc>
   </url>
   
   <url>
     <loc>/band/super-fat-ginger-cat/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/tribalcore/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/trio/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/video/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/violent/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/weird/</loc>
   </url>
   
 </urlset>

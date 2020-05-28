@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Events &amp; News | Grandine Records</title>
+    <title>Events | Grandine Records</title>
     <link>/event/</link>
       <atom:link href="/event/index.xml" rel="self" type="application/rss+xml" />
-    <description>Events &amp; News</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Grandine Recocrds© 2020</copyright><lastBuildDate>Fri, 15 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <description>Events</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Grandine Records© 2020</copyright><lastBuildDate>Fri, 15 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/logo_huf5a42beb3af8244dd94247ae5da5c590_356444_300x300_fit_lanczos_2.png</url>
-      <title>Events &amp; News</title>
+      <url>/img/headers/logo.png</url>
+      <title>Events</title>
       <link>/event/</link>
     </image>
     
@@ -17,8 +17,17 @@
       <link>/event/20191115-videorecording-at-cabot/</link>
       <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
       <guid>/event/20191115-videorecording-at-cabot/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Inserire la descrizione della due giorni&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Inserire la descrizione della due giorni&lt;/strong&gt;
+Lorem ipsum &amp;hellip;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/events/</guid>
+      <description></description>
     </item>
     
   </channel>
