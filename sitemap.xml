@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/event/</loc>
-    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
+    <loc>/blog/</loc>
+    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/la-vita-senza-big-muff/</loc>
+    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/event/</loc>
     <lastmod>2019-11-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -61,10 +71,6 @@
   </url>
   
   <url>
-    <loc>/events/</loc>
-  </url>
-  
-  <url>
     <loc>/partner/ginevra/</loc>
   </url>
   
@@ -78,6 +84,10 @@
   
   <url>
     <loc>/band/iqonde/</loc>
+  </url>
+  
+  <url>
+    <loc>/news/</loc>
   </url>
   
   <url>
