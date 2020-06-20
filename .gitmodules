@@ -1,4 +1,0 @@
-[submodule "public/public"]
-	path = public/public
-	url = https://github.com/grandinerecords/grandinerecords.github.io.git
-	branch = master

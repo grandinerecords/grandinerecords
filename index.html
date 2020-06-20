@@ -14,20 +14,16 @@
   
   
   
-    
-    
-    
-  
   
 
-  <meta name="author" content="Grandine Records">
+  
 
   
   
   
     
   
-  <meta name="description" content="Produzione e diffusione musicale in ambito post-metal, stoner, alternative-rock e post-rock.">
+  <meta name="description" content="Autoproduzione e diffusione di progetti musicali.">
 
   
   <link rel="alternate" hreflang="en-us" href="/">
@@ -228,10 +224,10 @@
   <meta property="og:site_name" content="Grandine Records">
   <meta property="og:url" content="/">
   <meta property="og:title" content="Grandine Records">
-  <meta property="og:description" content="Produzione e diffusione musicale in ambito post-metal, stoner, alternative-rock e post-rock."><meta property="og:image" content="/img/headers/logo.png">
+  <meta property="og:description" content="Autoproduzione e diffusione di progetti musicali."><meta property="og:image" content="/img/headers/logo.png">
   <meta property="twitter:image" content="/img/headers/logo.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2020-05-15T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2020-06-11T00:00:00&#43;00:00">
   
 
   
@@ -239,7 +235,13 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "WebSite","url": "/"
+  "@type": "WebSite",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "/?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  },
+  "url": "/"
 }
 </script>
 
@@ -255,7 +257,16 @@
   "image": "/img/headers/logo.png",
   
   
-  "telephone": "+39 051 0000000",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "",
+    "addressLocality": "Bologna",
+    "addressRegion": "Italia",
+    "postalCode": "40100",
+    "addressCountry": "IT"
+  },
+  
+  
   "url": "/"
 }
 </script>
@@ -323,7 +334,8 @@
 
       <div id="search-box">
         
-        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
         
       </div>
 
@@ -439,28 +451,6 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/news/"><span>News</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-
-        <li class="nav-item">
           <a class="nav-link " href="/partners/"><span>Partners</span></a>
         </li>
 
@@ -533,6 +523,10 @@
 
     <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
       
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
 
       
 
@@ -545,6 +539,8 @@
 
 
   
+
+
 
 
 
@@ -581,9 +577,6 @@
   
 
   
-    
-    
-  
 
   
 
@@ -603,7 +596,7 @@
   
   
 
-  <section id="demo" class="home-section wg-blank dark  " style="background-color: black;padding: 20px 0 20px 0;" >
+  <section id="demo" class="home-section wg-blank dark  " style="background-color: black;" >
     <div class="container">
       
 
@@ -614,6 +607,7 @@
       
       
       <p><img src="/img/headers/landing.png" alt="grandine record logo"></p>
+<h1 id="precipitazioni-sonore-a-ritmi-irregolari">Precipitazioni sonore a ritmi irregolari!</h1>
 
     </div>
   
@@ -627,7 +621,7 @@
   
 
   
-
+    
   
 
   
@@ -637,92 +631,90 @@
   
 
   
+
+  
+  
+
+  
+  
   
 
   
   
   
-
-  
-  
-  
   
   
 
   
   
 
-  <section id="about" class="home-section wg-about   "  >
+  <section id="about" class="home-section wg-hero dark  " style="background-color: black;" >
     <div class="container">
       
 
 
 
 
-  
 
-
-
-
-
-
-
-
-
-
-<div class="row">
-  <div class="col-12 col-lg-4">
-    <div id="profile">
-
-      
-      
-      <img class="avatar avatar-circle" src="/authors/admin/avatar_huf5a42beb3af8244dd94247ae5da5c590_356444_270x270_fill_lanczos_center_2.png" alt="Grandine Records">
-      
-
-      <div class="portrait-title">
-        <h2>Grandine Records</h2>
-        <h3>Produzioni musicali</h3>
-
-        
-      </div>
-
-      <ul class="network-icon" aria-hidden="true">
-        
-      </ul>
-
-    </div>
-  </div>
-  <div class="col-12 col-lg-8">
+    <h1 class="hero-title">
+      Chi siamo
+    </h1>
 
     
-    <h1>Biography</h1>
-
-    <p>Grandine records nasce da &hellip;.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.</p>
-
-
-    <div class="row">
-
-      
-      <div class="col-md-5">
-        <h3>Interests</h3>
-        <ul class="ul-interests">
-          
-          <li>Produzioni musicali</li>
-          
-          <li>Recording e mastering</li>
-          
-          <li>Eventi e concerti</li>
-          
-        </ul>
-      </div>
-      
-
-      
-
-    </div>
-  </div>
+    <div class="hero-lead"><p>Grandine Records è un’etichetta nata per creare uno spazio di <strong>promozione, produzione e condivisione
+musicale</strong> che percorra gli ambiti artistici abbattendo differenze sonore e competizione.</p>
+<p>Grandine segue e supporta i musicisti nel pieno sviluppo della loro <strong>creatività e libertà artistica</strong>
+tramite produzione audio e video, organizzazione eventi, promozione e distribuzione digitale.</p>
+<p>Fondata nel 2020, al momento conta 5 band e 15 musicisti tra Bologna e Roma.</p>
+<p>Il <strong>centro nevralgico</strong> di Grandine è composto da artisti, musicisti, fonici, grafici, videomaker
+che uniscono conoscenze e abilità per sviluppare e valorizzare ogni artista al suo interno e
+conseguentemente la scena artistica in generale.</p>
+<p>Grandine non si definisce in un’estetica o in un <strong>genere</strong>, né appoggia <strong>bandiere stilistiche</strong>. Gli
+artisti al suo interno fanno parte di un’accurata <strong>ricerca</strong> dettata da un attitudine comune e dai
+valori condivisi.</p>
+<p>Grandine sostiene le singole visioni artistiche e le evidenzia con uno spazio che sia aperto
+agli <strong>stili</strong> e alle unicità cercando uno <strong>scambio diretto</strong> tra musicisti e ascoltatori, tra musicisti e
+tecnici e tra musicisti stessi.</p>
+<p>L’organizzazione di <strong>eventi, la produzione e distribuzione audio/video</strong> e la creazione di
+<strong>laboratori e workshop</strong> seguono l’idea di realizzare un centro che fortifichi e sostenga l’ambito
+<strong>musicale e artistico</strong> in ogni sua forma.</p>
 </div>
+    
+
+    
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+        
+      
+    <p class="cta-btns">
+      <a href="https://grandinerecords.bandcamp.com/" target="_blank" rel="noopener" class="btn btn-light btn-lg"><i class="fab fa-bandcamp pr-1" aria-hidden="true"></i>Listen on Bandcamp</a>
+
+      
+      
+        
+        
+        
+        
+          
+        
+      <a href="https://www.youtube.com/channel/UCQH-QPhNPdcfxsYT4P_86Xw/" target="_blank" rel="noopener" class="hero-cta-alt pl-4">Watch on YouTube <i class="fas fa-angle-right"></i></a>
+      
+    </p>
+    
+
+    
+    
+
+  
+  
 
     </div>
   </section>
@@ -768,7 +760,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristiq
 <div class="row contact-widget">
   <div class="col-12 col-lg-4 section-heading">
     <h1>Contact</h1>
-    <p>Contattaci</p>
+    
   </div>
   <div class="col-12 col-lg-8">
     
@@ -780,18 +772,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristiq
       
       <li>
         <i class="fa-li fas fa-envelope fa-2x" aria-hidden="true"></i>
-        <span id="person-email"><a href="mailto:collettivograndine@gmail.com">collettivograndine@gmail.com</a></span>
+        <span id="person-email"><a href="mailto:info@grandinerecords.it">info@grandinerecords.it</a></span>
       </li>
       
 
       
-      <li>
-        <i class="fa-li fas fa-phone fa-2x" aria-hidden="true"></i>
-        <span id="person-telephone"><a href="tel:&#43;39%20051%200000000">&#43;39 051 0000000</a></span>
-      </li>
-      
 
       
+      
+        
+        <li>
+          <i class="fa-li fas fa-map-marker fa-2x" aria-hidden="true"></i>
+          <span id="person-address">Bologna, Italia, 40100</span>
+        </li>
       
 
       
@@ -845,13 +838,45 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristiq
     
 
     
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
 
     
     
 
     
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
 
     
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
     
 
     
@@ -884,10 +909,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristiq
     
     
     
+      
     
     
     
-    <script src="/js/academic.min.6f7ce8be710290b8c431bbc97f405d15.js"></script>
+    
+    <script src="/js/academic.min.37431be2d92d7fb0160054761ab79602.js"></script>
 
     
 

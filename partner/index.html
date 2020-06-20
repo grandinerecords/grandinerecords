@@ -14,20 +14,16 @@
   
   
   
-    
-    
-    
-  
   
 
-  <meta name="author" content="Grandine Records">
+  
 
   
   
   
     
   
-  <meta name="description" content="Produzione e diffusione musicale in ambito post-metal, stoner, alternative-rock e post-rock.">
+  <meta name="description" content="Autoproduzione e diffusione di progetti musicali.">
 
   
   <link rel="alternate" hreflang="en-us" href="/partner/">
@@ -226,7 +222,7 @@
   <meta property="og:site_name" content="Grandine Records">
   <meta property="og:url" content="/partner/">
   <meta property="og:title" content="Partners | Grandine Records">
-  <meta property="og:description" content="Produzione e diffusione musicale in ambito post-metal, stoner, alternative-rock e post-rock."><meta property="og:image" content="/img/headers/logo.png">
+  <meta property="og:description" content="Autoproduzione e diffusione di progetti musicali."><meta property="og:image" content="/img/headers/logo.png">
   <meta property="twitter:image" content="/img/headers/logo.png"><meta property="og:locale" content="en-us">
   
     
@@ -297,7 +293,8 @@
 
       <div id="search-box">
         
-        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
         
       </div>
 
@@ -413,28 +410,6 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/news/"><span>News</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-
-        <li class="nav-item">
           <a class="nav-link " href="/partners/"><span>Partners</span></a>
         </li>
 
@@ -507,6 +482,10 @@
 
     <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
       
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
 
       
 
@@ -575,6 +554,36 @@
       
     
     <div>
+      <h2><a href="https://www.facebook.com/cyclonedevices/" target="_blank" rel="noopener">Cyclone Devices</a></h2>
+      <div class="article-style">
+        
+          Laboratorio di design e implementazione di effetti per chitarra e basso, preamplificatori e compressori
+        
+      </div>
+    </div>
+  
+    
+    
+    
+      
+      
+    
+    <div>
+      <h2><a href="https://www.diacronie.com/" target="_blank" rel="noopener">Diacronie Lab</a></h2>
+      <div class="article-style">
+        
+          Studio musicale
+        
+      </div>
+    </div>
+  
+    
+    
+    
+      
+      
+    
+    <div>
       <h2><a href="https://www.instagram.com/romagnoliginevra/" target="_blank" rel="noopener">Ginevra Romagnoli</a></h2>
       <div class="article-style">
         
@@ -618,11 +627,46 @@
     
 
     
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
 
     
     
 
     
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
 
     
     
@@ -635,7 +679,6 @@
 
     
     
-
     
     
     
@@ -643,12 +686,12 @@
     
     
     
+      
     
     
     
     
-    
-    <script src="/js/academic.min.6f7ce8be710290b8c431bbc97f405d15.js"></script>
+    <script src="/js/academic.min.37431be2d92d7fb0160054761ab79602.js"></script>
 
     
 

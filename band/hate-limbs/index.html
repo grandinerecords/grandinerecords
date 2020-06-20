@@ -14,13 +14,9 @@
   
   
   
-    
-    
-    
-  
   
 
-  <meta name="author" content="Grandine Records">
+  
 
   
   
@@ -298,7 +294,8 @@
 
       <div id="search-box">
         
-        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
         
       </div>
 
@@ -414,28 +411,6 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/news/"><span>News</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-
-        <li class="nav-item">
           <a class="nav-link " href="/partners/"><span>Partners</span></a>
         </li>
 
@@ -507,6 +482,10 @@
     </div>
 
     <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
       
 
       
@@ -717,45 +696,98 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-
-
-  
-  
-  
-  
-  
-  <div class="media author-card content-widget-hr">
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
     
       
-      <img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_huf5a42beb3af8244dd94247ae5da5c590_356444_270x270_fill_lanczos_center_2.png" alt="Grandine Records">
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=/band/hate-limbs/&amp;text=Hate%20Limbs" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
     
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=/band/hate-limbs/&amp;t=Hate%20Limbs" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Hate%20Limbs&amp;body=/band/hate-limbs/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=/band/hate-limbs/&amp;title=Hate%20Limbs" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=Hate%20Limbs%20/band/hate-limbs/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=/band/hate-limbs/&amp;title=Hate%20Limbs" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
 
-    <div class="media-body">
-      <h5 class="card-title"><a href="/authors/admin/">Grandine Records</a></h5>
-      <h6 class="card-subtitle">Produzioni musicali</h6>
-      <p class="card-text">Precipitazioni sonore!</p>
-      <ul class="network-icon" aria-hidden="true">
-  
-</ul>
 
-    </div>
-  </div>
+
+
+
+
+
+
+
 
 
 
@@ -806,11 +838,46 @@
     
 
     
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
 
     
     
 
     
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
 
     
     
@@ -823,7 +890,6 @@
 
     
     
-
     
     
     
@@ -831,12 +897,12 @@
     
     
     
+      
     
     
     
     
-    
-    <script src="/js/academic.min.6f7ce8be710290b8c431bbc97f405d15.js"></script>
+    <script src="/js/academic.min.37431be2d92d7fb0160054761ab79602.js"></script>
 
     
 

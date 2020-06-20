@@ -14,13 +14,9 @@
   
   
   
-    
-    
-    
-  
   
 
-  <meta name="author" content="Grandine Records">
+  
 
   
   
@@ -298,7 +294,8 @@
 
       <div id="search-box">
         
-        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
         
       </div>
 
@@ -414,28 +411,6 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/news/"><span>News</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-
-        <li class="nav-item">
           <a class="nav-link " href="/partners/"><span>Partners</span></a>
         </li>
 
@@ -508,6 +483,10 @@
 
     <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
       
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
 
       
 
@@ -539,7 +518,7 @@
   
 
   
-
+    
   
 
   
@@ -549,22 +528,24 @@
   
 
   
+
+  
+  
+
+  
+  
   
 
   
   
   
-
-  
-  
-  
   
   
 
   
   
 
-  <section id="portfolio" class="home-section wg-portfolio   "  >
+  <section id="release" class="home-section wg-portfolio dark  " style="background-color: black;" >
     <div class="container">
       
 
@@ -581,7 +562,7 @@
 
   <div class="center-text">
     <h1 class="mt-0">Releases</h1>
-    <p>&hellip;</p>
+    <p>Le nostre produzioni</p>
   </div>
   <div>
 
@@ -607,8 +588,6 @@
 
 
 
-  
-
 
 
 
@@ -617,16 +596,12 @@
   <div class="card">
     
     
-    <a href="/release/album-title-2/"  class="card-image hover-overlay">
-      <img src="/release/album-title-2/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_312700_550x0_resize_q90_lanczos.jpg" alt="" class="img-responsive">
+    <a href="/release/sabor-latino/"  class="card-image hover-overlay">
+      <img src="/release/sabor-latino/featured_hud64c7931a5219e0a52f6d5ebbfdd0bcc_186658_550x0_resize_q90_lanczos.jpg" alt="" class="img-responsive">
     </a>
     
     <div class="card-text">
-      <h4><a href="/release/album-title-2/" >Album title</a></h4>
-      
-      <div class="article-style">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.</p>
-      </div>
+      <h4><a href="/release/sabor-latino/" >Sabor Latino</a></h4>
       
     </div>
   </div>
@@ -650,8 +625,6 @@
 
 
 
-  
-
 
 
 
@@ -660,16 +633,12 @@
   <div class="card">
     
     
-    <a href="/release/album-title/"  class="card-image hover-overlay">
-      <img src="/release/album-title/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_312700_550x0_resize_q90_lanczos.jpg" alt="" class="img-responsive">
+    <a href="/release/kibeho/"  class="card-image hover-overlay">
+      <img src="/release/kibeho/featured_hu3402f373db789c8dfd44fbcb7c1a8614_146264_550x0_resize_q90_lanczos.jpg" alt="" class="img-responsive">
     </a>
     
     <div class="card-text">
-      <h4><a href="/release/album-title/" >Album title</a></h4>
-      
-      <div class="article-style">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.</p>
-      </div>
+      <h4><a href="/release/kibeho/" >KIBEHO</a></h4>
       
     </div>
   </div>
@@ -718,11 +687,46 @@
     
 
     
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
 
     
     
 
     
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
 
     
     
@@ -735,7 +739,6 @@
 
     
     
-
     
     
     
@@ -743,12 +746,12 @@
     
     
     
+      
     
     
     
     
-    
-    <script src="/js/academic.min.6f7ce8be710290b8c431bbc97f405d15.js"></script>
+    <script src="/js/academic.min.37431be2d92d7fb0160054761ab79602.js"></script>
 
     
 

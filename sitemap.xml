@@ -3,55 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/blog/</loc>
-    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/</loc>
-    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/la-vita-senza-big-muff/</loc>
-    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/event/</loc>
-    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/event/20191115-videorecording-at-cabot/</loc>
-    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/release/album-title-2/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/release/album-title/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/release/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/admin/</loc>
+    <loc>/release/sabor-latino/</loc>
+    <lastmod>2020-06-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/admin/admin/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
+    <loc>/release/kibeho/</loc>
+    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -64,6 +32,14 @@
   
   <url>
     <loc>/partner/cabot-cove/</loc>
+  </url>
+  
+  <url>
+    <loc>/partner/cyclone-devices/</loc>
+  </url>
+  
+  <url>
+    <loc>/partner/diacronie-lab/</loc>
   </url>
   
   <url>

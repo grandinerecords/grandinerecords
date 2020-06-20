@@ -14,13 +14,9 @@
   
   
   
-    
-    
-    
-  
   
 
-  <meta name="author" content="Grandine Records">
+  
 
   
   
@@ -298,7 +294,8 @@
 
       <div id="search-box">
         
-        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
         
       </div>
 
@@ -414,28 +411,6 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/news/"><span>News</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-
-        <li class="nav-item">
           <a class="nav-link  active" href="/partners/" data-target="[]"><span>Partners</span></a>
         </li>
 
@@ -508,6 +483,10 @@
 
     <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
       
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
 
       
 
@@ -539,7 +518,7 @@
   
 
   
-
+    
   
 
   
@@ -549,22 +528,24 @@
   
 
   
+
+  
+  
+
+  
+  
   
 
   
   
   
-
-  
-  
-  
   
   
 
   
   
 
-  <section id="portfolio" class="home-section wg-pages   "  >
+  <section id="partner" class="home-section wg-pages dark  " style="background-color: black;" >
     <div class="container">
       
 
@@ -612,7 +593,7 @@
 <div class="row">
   <div class="col-12 col-lg-4 section-heading">
     <h1>Partners</h1>
-    <p>&hellip;</p>
+    <p>I collaboratori e gli artisti che supportano il nostro lavoro</p>
   </div>
   <div class="col-12 col-lg-8">
 
@@ -694,6 +675,170 @@
     
     <a href="https://cabot-cove.it/" target="_blank" rel="noopener">
       <img src="/partner/cabot-cove/featured_hud9e1970ccbc038424ae383385d09f676_63700_150x0_resize_q90_lanczos.jpg" alt="">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="https://www.facebook.com/cyclonedevices/" target="_blank" rel="noopener">Cyclone Devices</a>
+    </h3>
+
+    
+    <div class="article-style">
+      Laboratorio di design e implementazione di effetti per chitarra e basso, preamplificatori e compressori
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+  
+  
+  <span class="article-categories"><a href="">Partner</a></span>
+  
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="https://www.facebook.com/cyclonedevices/" target="_blank" rel="noopener">
+      <img src="/partner/cyclone-devices/featured_hu6d8cd9164e91755e71fab1b04e06f0ba_202984_150x0_resize_q90_lanczos.jpg" alt="">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="https://www.diacronie.com/" target="_blank" rel="noopener">Diacronie Lab</a>
+    </h3>
+
+    
+    <div class="article-style">
+      Studio musicale
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+  
+  
+  <span class="article-categories"><a href="">Partner</a></span>
+  
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="https://www.diacronie.com/" target="_blank" rel="noopener">
+      <img src="/partner/diacronie-lab/featured_hucf967c33f389130ab619766a81118218_76423_150x0_resize_q90_lanczos.jpg" alt="">
     </a>
     
   </div>
@@ -824,11 +969,46 @@
     
 
     
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
 
     
     
 
     
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
 
     
     
@@ -841,7 +1021,6 @@
 
     
     
-
     
     
     
@@ -849,12 +1028,12 @@
     
     
     
+      
     
     
     
     
-    
-    <script src="/js/academic.min.6f7ce8be710290b8c431bbc97f405d15.js"></script>
+    <script src="/js/academic.min.37431be2d92d7fb0160054761ab79602.js"></script>
 
     
 

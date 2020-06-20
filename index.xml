@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Grandine Records</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Grandine Records© 2020</copyright><lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Grandine Records© 2020</copyright><lastBuildDate>Thu, 11 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/headers/logo.png</url>
       <title>Grandine Records</title>
@@ -13,38 +13,18 @@
     </image>
     
     <item>
-      <title>La mia vita senza Big Muff</title>
-      <link>/blog/la-vita-senza-big-muff/</link>
-      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>/blog/la-vita-senza-big-muff/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;La mia vita senza Big Muff&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Lorem ipsum &amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Sessione di video recording live @ Cabot Cove</title>
-      <link>/event/20191115-videorecording-at-cabot/</link>
-      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/event/20191115-videorecording-at-cabot/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Inserire la descrizione della due giorni&lt;/strong&gt;
-Lorem ipsum &amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Album title</title>
-      <link>/release/album-title-2/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>/release/album-title-2/</guid>
+      <title>Sabor Latino</title>
+      <link>/release/sabor-latino/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/release/sabor-latino/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Album title</title>
-      <link>/release/album-title/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>/release/album-title/</guid>
+      <title>KIBEHO</title>
+      <link>/release/kibeho/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/release/kibeho/</guid>
       <description></description>
     </item>
     
@@ -61,6 +41,22 @@ Lorem ipsum &amp;hellip;&lt;/p&gt;
       <link>/partner/cabot-cove/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/partner/cabot-cove/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cyclone Devices</title>
+      <link>/partner/cyclone-devices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/partner/cyclone-devices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diacronie Lab</title>
+      <link>/partner/diacronie-lab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/partner/diacronie-lab/</guid>
       <description></description>
     </item>
     
@@ -101,26 +97,7 @@ Cabrones a spingersi sempre oltre.&lt;/p&gt;
       <link>/partner/ginevra/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/partner/ginevra/</guid>
-      <description>&lt;!-- Bio --&gt;
-&lt;p&gt;Insert some bio infos here&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;the-crew&#34;&gt;The crew:&lt;/h2&gt;
-&lt;!-- * Nome componente - Strumento/i --&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;made-together&#34;&gt;Made together:&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Video recording session @ Cabot Cove&lt;/strong&gt;
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://player.vimeo.com/video/video-Id&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Portfolio&lt;/strong&gt;&lt;/p&gt;
-&lt;!-- 
-&lt;iframe width=&#34;100%&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/embedded%20user%20id&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=false&amp;show_reposts=false&amp;show_teaser=false&amp;visual=true&#34;&gt;&lt;/iframe&gt;
- --&gt;
-&lt;hr&gt;
-&lt;!-- # Image gallery if needed  --&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
