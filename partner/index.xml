@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Partners | Grandine Records</title>
-    <link>/partner/</link>
-      <atom:link href="/partner/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.grandinerecords.it/partner/</link>
+      <atom:link href="https://www.grandinerecords.it/partner/index.xml" rel="self" type="application/rss+xml" />
     <description>Partners</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Grandine Records© 2020</copyright>
     <image>
-      <url>/img/headers/logo.png</url>
+      <url>https://www.grandinerecords.it/img/headers/logo.png</url>
       <title>Partners</title>
-      <link>/partner/</link>
+      <link>https://www.grandinerecords.it/partner/</link>
     </image>
     
     <item>
       <title>Cabot Cove</title>
-      <link>/partner/cabot-cove/</link>
+      <link>https://www.grandinerecords.it/partner/cabot-cove/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/partner/cabot-cove/</guid>
+      <guid>https://www.grandinerecords.it/partner/cabot-cove/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cyclone Devices</title>
-      <link>/partner/cyclone-devices/</link>
+      <link>https://www.grandinerecords.it/partner/cyclone-devices/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/partner/cyclone-devices/</guid>
+      <guid>https://www.grandinerecords.it/partner/cyclone-devices/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Diacronie Lab</title>
-      <link>/partner/diacronie-lab/</link>
+      <link>https://www.grandinerecords.it/partner/diacronie-lab/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/partner/diacronie-lab/</guid>
+      <guid>https://www.grandinerecords.it/partner/diacronie-lab/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ginevra Romagnoli</title>
-      <link>/partner/ginevra/</link>
+      <link>https://www.grandinerecords.it/partner/ginevra/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/partner/ginevra/</guid>
+      <guid>https://www.grandinerecords.it/partner/ginevra/</guid>
       <description></description>
     </item>
     
