@@ -5,7 +5,7 @@
     <link>https://www.grandinerecords.it/release/</link>
       <atom:link href="https://www.grandinerecords.it/release/index.xml" rel="self" type="application/rss+xml" />
     <description>Releases</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Grandine Records© 2020</copyright><lastBuildDate>Thu, 11 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Grandine Records© 2020</copyright><lastBuildDate>Mon, 02 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.grandinerecords.it/img/headers/logo.png</url>
       <title>Releases</title>
@@ -15,27 +15,11 @@
     <item>
       <title>Accanimento Terapeutico</title>
       <link>https://www.grandinerecords.it/release/accanimento-terapeutico/</link>
-      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://www.grandinerecords.it/release/accanimento-terapeutico/</guid>
       <description>&lt;iframe style=&#34;border: 0; width: 100%; height: 42px;&#34; src=&#34;https://bandcamp.com/EmbeddedPlayer/album=3842466220/size=small/bgcol=ffffff/linkcol=de270f/artwork=none/transparent=true/&#34; seamless&gt;&lt;/iframe&gt;
 
 </description>
-    </item>
-    
-    <item>
-      <title>Sabor Latino</title>
-      <link>https://www.grandinerecords.it/release/sabor-latino/</link>
-      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.grandinerecords.it/release/sabor-latino/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>KIBEHO</title>
-      <link>https://www.grandinerecords.it/release/kibeho/</link>
-      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.grandinerecords.it/release/kibeho/</guid>
-      <description></description>
     </item>
     
   </channel>
