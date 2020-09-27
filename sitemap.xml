@@ -1,19 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.grandinerecords.it/release/accanimento-terapeutico/</loc>
-    <lastmod>2019-09-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.grandinerecords.it/</loc>
-    <lastmod>2019-09-02T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.grandinerecords.it/release/</loc>
+    <lastmod>2020-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.grandinerecords.it/release/sabor-latino/</loc>
+    <lastmod>2020-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.grandinerecords.it/release/grandine-live-session/</loc>
+    <lastmod>2020-01-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.grandinerecords.it/release/accanimento-terapeutico/</loc>
     <lastmod>2019-09-02T00:00:00+00:00</lastmod>
   </url>
   
