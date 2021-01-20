@@ -5,7 +5,7 @@
     <link>https://www.grandinerecords.it/partner/</link>
       <atom:link href="https://www.grandinerecords.it/partner/index.xml" rel="self" type="application/rss+xml" />
     <description>Partners</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>it</language><copyright>Grandine Records© 2020</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>it</language><copyright>Grandine Records© 2021</copyright>
     <image>
       <url>https://www.grandinerecords.it/img/headers/logo.png</url>
       <title>Partners</title>
@@ -41,14 +41,6 @@
       <link>https://www.grandinerecords.it/partner/ginevra/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.grandinerecords.it/partner/ginevra/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Partners</title>
-      <link>https://www.grandinerecords.it/partners/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.grandinerecords.it/partners/</guid>
       <description></description>
     </item>
     
