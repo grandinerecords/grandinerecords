@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>design | Grandine Records</title>
+    <link>https://www.grandinerecords.it/tags/design/</link>
+      <atom:link href="https://www.grandinerecords.it/tags/design/index.xml" rel="self" type="application/rss+xml" />
+    <description>design</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>it</language><copyright>Grandine Records© 2021</copyright>
+    <image>
+      <url>https://www.grandinerecords.it/img/headers/logo.png</url>
+      <title>design</title>
+      <link>https://www.grandinerecords.it/tags/design/</link>
+    </image>
+    
+    <item>
+      <title>Ginevra Romagnoli</title>
+      <link>https://www.grandinerecords.it/partner/ginevra/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.grandinerecords.it/partner/ginevra/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

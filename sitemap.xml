@@ -1,104 +1,138 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://www.grandinerecords.it/release/big-sea-ep/</loc>
     <lastmod>2021-03-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://www.grandinerecords.it/categories/</loc>
+    <lastmod>2021-03-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.grandinerecords.it/</loc>
     <lastmod>2021-03-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://www.grandinerecords.it/categories/release/</loc>
+    <lastmod>2021-03-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.grandinerecords.it/release/</loc>
     <lastmod>2021-03-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.grandinerecords.it/release/kibeho/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.grandinerecords.it/release/sabor-latino/</loc>
     <lastmod>2020-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.grandinerecords.it/release/grandine-live-session/</loc>
     <lastmod>2020-01-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.grandinerecords.it/release/accanimento-terapeutico/</loc>
     <lastmod>2019-09-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://www.grandinerecords.it/tags/alternative/</loc>
+  </url><url>
+    <loc>https://www.grandinerecords.it/categories/band/</loc>
+  </url><url>
     <loc>https://www.grandinerecords.it/band/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.grandinerecords.it/bands/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.grandinerecords.it/band/big-sea/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.grandinerecords.it/partner/cabot-cove/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.grandinerecords.it/partner/cyclone-devices/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://www.grandinerecords.it/tags/desert/</loc>
+  </url><url>
+    <loc>https://www.grandinerecords.it/tags/design/</loc>
+  </url><url>
     <loc>https://www.grandinerecords.it/partner/diacronie-lab/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.grandinerecords.it/band/dos-cabrones/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://www.grandinerecords.it/tags/effects/</loc>
+  </url><url>
+    <loc>https://www.grandinerecords.it/tags/fuzz/</loc>
+  </url><url>
+    <loc>https://www.grandinerecords.it/tags/garageous/</loc>
+  </url><url>
     <loc>https://www.grandinerecords.it/partner/ginevra/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://www.grandinerecords.it/tags/graphics/</loc>
+  </url><url>
+    <loc>https://www.grandinerecords.it/tags/groove/</loc>
+  </url><url>
     <loc>https://www.grandinerecords.it/band/grufus/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://www.grandinerecords.it/tags/grunge/</loc>
+  </url><url>
     <loc>https://www.grandinerecords.it/band/hate-limbs/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://www.grandinerecords.it/tags/indie/</loc>
+  </url><url>
     <loc>https://www.grandinerecords.it/band/iqonde/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://www.grandinerecords.it/tags/lab/</loc>
+  </url><url>
+    <loc>https://www.grandinerecords.it/tags/mastering/</loc>
+  </url><url>
+    <loc>https://www.grandinerecords.it/tags/math/</loc>
+  </url><url>
+    <loc>https://www.grandinerecords.it/tags/mathcore/</loc>
+  </url><url>
+    <loc>https://www.grandinerecords.it/tags/mescaline/</loc>
+  </url><url>
+    <loc>https://www.grandinerecords.it/tags/metal/</loc>
+  </url><url>
     <loc>https://www.grandinerecords.it/news/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://www.grandinerecords.it/tags/noise/</loc>
+  </url><url>
+    <loc>https://www.grandinerecords.it/categories/partner/</loc>
+  </url><url>
     <loc>https://www.grandinerecords.it/partner/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.grandinerecords.it/partners/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://www.grandinerecords.it/tags/pedals/</loc>
+  </url><url>
+    <loc>https://www.grandinerecords.it/tags/photo/</loc>
+  </url><url>
+    <loc>https://www.grandinerecords.it/tags/post-hardcore/</loc>
+  </url><url>
+    <loc>https://www.grandinerecords.it/tags/power/</loc>
+  </url><url>
+    <loc>https://www.grandinerecords.it/tags/psych/</loc>
+  </url><url>
+    <loc>https://www.grandinerecords.it/tags/psychedelic/</loc>
+  </url><url>
+    <loc>https://www.grandinerecords.it/tags/recording/</loc>
+  </url><url>
     <loc>https://www.grandinerecords.it/releases/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://www.grandinerecords.it/tags/rock/</loc>
+  </url><url>
+    <loc>https://www.grandinerecords.it/tags/sala-prove/</loc>
+  </url><url>
+    <loc>https://www.grandinerecords.it/tags/sludge/</loc>
+  </url><url>
+    <loc>https://www.grandinerecords.it/tags/stoner/</loc>
+  </url><url>
+    <loc>https://www.grandinerecords.it/tags/studio/</loc>
+  </url><url>
     <loc>https://www.grandinerecords.it/band/super-fat-ginger-cat/</loc>
+  </url><url>
+    <loc>https://www.grandinerecords.it/tags/</loc>
+  </url><url>
+    <loc>https://www.grandinerecords.it/tags/tribalcore/</loc>
+  </url><url>
+    <loc>https://www.grandinerecords.it/tags/trio/</loc>
+  </url><url>
+    <loc>https://www.grandinerecords.it/tags/video/</loc>
+  </url><url>
+    <loc>https://www.grandinerecords.it/tags/violent/</loc>
+  </url><url>
+    <loc>https://www.grandinerecords.it/tags/weird/</loc>
   </url>
-  
 </urlset>
