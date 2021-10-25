@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.grandinerecords.it/</loc>
-    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
+    <loc>https://www.grandinerecords.it/release/cerbiatto-ep/</loc>
+    <lastmod>2021-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.grandinerecords.it/release/maw/</loc>
-    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
+    <loc>https://www.grandinerecords.it/</loc>
+    <lastmod>2021-10-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.grandinerecords.it/release/</loc>
+    <lastmod>2021-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.grandinerecords.it/release/maw/</loc>
     <lastmod>2021-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.grandinerecords.it/release/big-sea-ep/</loc>
@@ -57,5 +60,7 @@
     <loc>https://www.grandinerecords.it/releases/</loc>
   </url><url>
     <loc>https://www.grandinerecords.it/band/super-fat-ginger-cat/</loc>
+  </url><url>
+    <loc>https://www.grandinerecords.it/band/tonto/</loc>
   </url>
 </urlset>
