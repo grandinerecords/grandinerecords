@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.grandinerecords.it/release/functional-stupidity/</loc>
-    <lastmod>2022-04-10T00:00:00+00:00</lastmod>
+    <loc>https://www.grandinerecords.it/release/astrea/</loc>
+    <lastmod>2022-06-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.grandinerecords.it/</loc>
-    <lastmod>2022-04-10T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.grandinerecords.it/release/</loc>
+    <lastmod>2022-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.grandinerecords.it/release/functional-stupidity/</loc>
     <lastmod>2022-04-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.grandinerecords.it/release/una-specie-di-ferita/</loc>
@@ -38,6 +41,8 @@
     <loc>https://www.grandinerecords.it/band/</loc>
   </url><url>
     <loc>https://www.grandinerecords.it/bands/</loc>
+  </url><url>
+    <loc>https://www.grandinerecords.it/band/batsalsa-experience/</loc>
   </url><url>
     <loc>https://www.grandinerecords.it/band/big-sea/</loc>
   </url><url>
