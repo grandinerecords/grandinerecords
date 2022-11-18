@@ -5,12 +5,20 @@
     <link>https://www.grandinerecords.it/release/</link>
       <atom:link href="https://www.grandinerecords.it/release/index.xml" rel="self" type="application/rss+xml" />
     <description>Releases</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>it</language><copyright>Grandine Records© 2022</copyright><lastBuildDate>Thu, 23 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>it</language><copyright>Grandine Records© 2022</copyright><lastBuildDate>Mon, 14 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.grandinerecords.it/img/headers/logo.png</url>
       <title>Releases</title>
       <link>https://www.grandinerecords.it/release/</link>
     </image>
+    
+    <item>
+      <title>Hauntology</title>
+      <link>https://www.grandinerecords.it/release/hauntology/</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.grandinerecords.it/release/hauntology/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Astrea</title>

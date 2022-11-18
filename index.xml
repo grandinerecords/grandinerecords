@@ -5,12 +5,54 @@
     <link>https://www.grandinerecords.it/</link>
       <atom:link href="https://www.grandinerecords.it/index.xml" rel="self" type="application/rss+xml" />
     <description>Grandine Records</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>it</language><copyright>Grandine Records© 2022</copyright><lastBuildDate>Thu, 23 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>it</language><copyright>Grandine Records© 2022</copyright><lastBuildDate>Mon, 14 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.grandinerecords.it/img/headers/logo.png</url>
       <title>Grandine Records</title>
       <link>https://www.grandinerecords.it/</link>
     </image>
+    
+    <item>
+      <title>Collars</title>
+      <link>https://www.grandinerecords.it/band/collars/</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.grandinerecords.it/band/collars/</guid>
+      <description>&lt;p&gt;Le esplorazioni sonore dei Collars si si ispirano agli scritti di Simon Reynolds e Mark Fisher e in particolare al concetto di &amp;ldquo;Hauntologia&amp;rdquo; come tratto dal Jacques Derrida di “Spettri di Marx”.&lt;/p&gt;
+&lt;p&gt;Muovendo dagli assunti della critica postmodernista Fisher e Reynolds si sono confrontati con gli effetti spettrali della vasta eredità culturale emersa dal calderone dei nuovi media, che grava come un peso insopprimibile sulla produzione culturale contemporanea, costantemente captata e ri-captata dai riverberi nostalgici di un passato mai vissuto.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;componenti&#34;&gt;Componenti:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;ALBERTO BALBONI - DRUMS&lt;/li&gt;
+&lt;li&gt;DAVIDE GHERARDI - GUITAR&lt;/li&gt;
+&lt;li&gt;ENRICO BARALDI - BASS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;!-- ### Made together:
+
+**Video recording session @ Cabot Cove**
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- ### Listen: --&gt;
+&lt;!-- Insert here a spotify or soundcloud user link  --&gt;
+&lt;!-- &lt;iframe width=&#34;100%&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34; src=&#34;https://open.spotify.com/embed/artist/11KtyYLoqHmNxuPqHiBmGo?si=PJ5F5ozYRLiU4F8SCo1KaQ&#34;&gt;&lt;/iframe&gt;
+ --&gt;
+&lt;!-- &lt;iframe width=&#34;100%&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/620481444&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=false&amp;show_reposts=false&amp;show_teaser=false&amp;visual=true&#34;&gt;&lt;/iframe&gt;
+ --&gt;
+&lt;!-- --- --&gt;
+&lt;!-- # Image gallery if needed  --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hauntology</title>
+      <link>https://www.grandinerecords.it/release/hauntology/</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.grandinerecords.it/release/hauntology/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Astrea</title>
