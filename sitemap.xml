@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.grandinerecords.it/release/ghoulish-sex-tape/</loc>
-    <lastmod>2023-01-18T00:00:00+00:00</lastmod>
+    <loc>https://www.grandinerecords.it/band/</loc>
+    <lastmod>2024-06-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.grandinerecords.it/</loc>
+    <lastmod>2024-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.grandinerecords.it/band/netn/</loc>
+    <lastmod>2024-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.grandinerecords.it/release/ghoulish-sex-tape/</loc>
     <lastmod>2023-01-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.grandinerecords.it/release/</loc>
@@ -13,9 +19,6 @@
   </url><url>
     <loc>https://www.grandinerecords.it/release/transumanza/</loc>
     <lastmod>2023-01-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.grandinerecords.it/band/</loc>
-    <lastmod>2023-01-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.grandinerecords.it/band/kha/</loc>
     <lastmod>2023-01-14T00:00:00+00:00</lastmod>
@@ -50,8 +53,14 @@
     <loc>https://www.grandinerecords.it/release/sabor-latino/</loc>
     <lastmod>2020-09-28T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://www.grandinerecords.it/blog/</loc>
+    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.grandinerecords.it/release/grandine-live-session/</loc>
     <lastmod>2020-01-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.grandinerecords.it/event/</loc>
+    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.grandinerecords.it/release/accanimento-terapeutico/</loc>
     <lastmod>2019-09-02T00:00:00+00:00</lastmod>

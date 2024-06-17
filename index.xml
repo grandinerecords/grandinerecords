@@ -5,12 +5,38 @@
     <link>https://www.grandinerecords.it/</link>
       <atom:link href="https://www.grandinerecords.it/index.xml" rel="self" type="application/rss+xml" />
     <description>Grandine Records</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>it</language><copyright>Grandine Records© 2023</copyright><lastBuildDate>Wed, 18 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>it</language><copyright>Grandine Records© 2024</copyright><lastBuildDate>Fri, 14 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.grandinerecords.it/img/headers/logo.png</url>
       <title>Grandine Records</title>
       <link>https://www.grandinerecords.it/</link>
     </image>
+    
+    <item>
+      <title>NETN</title>
+      <link>https://www.grandinerecords.it/band/netn/</link>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.grandinerecords.it/band/netn/</guid>
+      <description>&lt;p&gt;I NETN nascono come Niet, con Ivo alla chitarra e Campi alla batteria a Portomaggiore(FE) a cavallo del 2014 e 2015 e iniziano i concerti nell’estate 2016 in occasione del demo Home, registrato da Samuele Grandi “Samboela” presso gli studi di Sonika a Ferrara,  collaborazione che si ripeterà per la registrazione dell’EP Dangerfield nel 2018. Dopo una intensa attività live e con l’arrivo della pandemia, decidono di cambiare nome in NETN e di allargare la formazione con l’arrivo di Matteo, diventando un trio.
+Negli anni hanno diviso il palco con One Dimensional Man, Fuzz Orchestra, Lleroy, Marnero, Wrong, Coilguns, Bruuno, Hyperwulff, Cani dei Portici, Ultrakelvin. Nel 2022 hanno registrato l’EP NETN al Vacuum studio di Bologna con Bruno Germano.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;componenti&#34;&gt;Componenti:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Campi - Drums&lt;/li&gt;
+&lt;li&gt;Ivo - Guitar/ Bass/Vocal&lt;/li&gt;
+&lt;li&gt;Matteo - Guitar&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;!-- ### Listen: --&gt;
+&lt;!-- Insert here a spotify or soundcloud user link  --&gt;
+&lt;!-- &lt;iframe width=&#34;100%&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34; src=&#34;https://open.spotify.com/embed/artist/11KtyYLoqHmNxuPqHiBmGo?si=PJ5F5ozYRLiU4F8SCo1KaQ&#34;&gt;&lt;/iframe&gt;
+ --&gt;
+&lt;!-- &lt;iframe width=&#34;100%&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/620481444&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=false&amp;show_reposts=false&amp;show_teaser=false&amp;visual=true&#34;&gt;&lt;/iframe&gt;
+ --&gt;
+&lt;!-- --- --&gt;
+&lt;!-- # Image gallery if needed  --&gt;
+</description>
+    </item>
     
     <item>
       <title>Ghoulish Sex Tape</title>
@@ -44,14 +70,6 @@
 &lt;li&gt;Marco Caproni - Drums&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;!-- ### Made together:
-
-**Video recording session @ Cabot Cove**
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
- --&gt;
 &lt;!-- ### Listen: --&gt;
 &lt;!-- Insert here a spotify or soundcloud user link  --&gt;
 &lt;!-- &lt;iframe width=&#34;100%&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34; src=&#34;https://open.spotify.com/embed/artist/11KtyYLoqHmNxuPqHiBmGo?si=PJ5F5ozYRLiU4F8SCo1KaQ&#34;&gt;&lt;/iframe&gt;
@@ -78,14 +96,6 @@
 &lt;li&gt;ENRICO BARALDI - BASS&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;!-- ### Made together:
-
-**Video recording session @ Cabot Cove**
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
- --&gt;
 &lt;!-- ### Listen: --&gt;
 &lt;!-- Insert here a spotify or soundcloud user link  --&gt;
 &lt;!-- &lt;iframe width=&#34;100%&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34; src=&#34;https://open.spotify.com/embed/artist/11KtyYLoqHmNxuPqHiBmGo?si=PJ5F5ozYRLiU4F8SCo1KaQ&#34;&gt;&lt;/iframe&gt;
@@ -638,14 +648,6 @@ fangose e claustrofobiche o calarsi in abissi enormi e spaventosi.&lt;/p&gt;
 &lt;li&gt;GIORGIO DONDI - VOCALS&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;!-- ### Made together:
-
-**Video recording session @ Cabot Cove**
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
- --&gt;
 &lt;!-- ### Listen: --&gt;
 &lt;!-- Insert here a spotify or soundcloud user link  --&gt;
 &lt;!-- &lt;iframe width=&#34;100%&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34; src=&#34;https://open.spotify.com/embed/artist/11KtyYLoqHmNxuPqHiBmGo?si=PJ5F5ozYRLiU4F8SCo1KaQ&#34;&gt;&lt;/iframe&gt;
@@ -674,9 +676,12 @@ fangose e claustrofobiche o calarsi in abissi enormi e spaventosi.&lt;/p&gt;
 &lt;h3 id=&#34;made-together&#34;&gt;Made together:&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Video recording session @ Cabot Cove&lt;/strong&gt;
 
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/6Ygu4pHRngQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/6Ygu4pHRngQ?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 &lt;/p&gt;
 &lt;!-- **Listen** --&gt;
 &lt;!-- &lt;iframe width=&#34;100%&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/620481444&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=false&amp;show_reposts=false&amp;show_teaser=false&amp;visual=true&#34;&gt;&lt;/iframe&gt;
@@ -728,9 +733,12 @@ Cabrones a spingersi sempre oltre.&lt;/p&gt;
 &lt;h3 id=&#34;made-together&#34;&gt;Made together:&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Video recording session @ Cabot Cove&lt;/strong&gt;
 
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/sq6nuWL3z00&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/sq6nuWL3z00?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 &lt;/p&gt;
 &lt;!-- ### Listen: --&gt;
 &lt;!-- Insert here a spotify or soundcloud user link  --&gt;
@@ -770,9 +778,12 @@ Mescola tutte le &lt;strong&gt;cattive intenzioni&lt;/strong&gt; e ridici sopra,
 &lt;h3 id=&#34;made-together&#34;&gt;Made together:&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Video recording session @ Cabot Cove&lt;/strong&gt;
 
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/cqesXo_EuV8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/cqesXo_EuV8?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 &lt;/p&gt;
 &lt;!-- ### Listen: --&gt;
 &lt;!-- Insert here a spotify or soundcloud user link  --&gt;
@@ -801,9 +812,12 @@ Mescola tutte le &lt;strong&gt;cattive intenzioni&lt;/strong&gt; e ridici sopra,
 &lt;h3 id=&#34;made-together&#34;&gt;Made together:&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Video recording session @ Cabot Cove&lt;/strong&gt;
 
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/G7moRhLAzCM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/G7moRhLAzCM?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 &lt;/p&gt;
 &lt;hr&gt;
 &lt;!-- # Image gallery if needed  --&gt;
@@ -828,9 +842,12 @@ Mescola tutte le &lt;strong&gt;cattive intenzioni&lt;/strong&gt; e ridici sopra,
 &lt;h3 id=&#34;made-together&#34;&gt;Made together:&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Video recording session @ Cabot Cove&lt;/strong&gt;
 
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/UAu5qzaIaN4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/UAu5qzaIaN4?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 &lt;/p&gt;
 &lt;!-- **Listen** --&gt;
 &lt;!-- &lt;iframe width=&#34;100%&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/620481444&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=false&amp;show_reposts=false&amp;show_teaser=false&amp;visual=true&#34;&gt;&lt;/iframe&gt;
@@ -884,9 +901,12 @@ Mescola tutte le &lt;strong&gt;cattive intenzioni&lt;/strong&gt; e ridici sopra,
 &lt;h3 id=&#34;made-together&#34;&gt;Made together:&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Video recording session @ Cabot Cove&lt;/strong&gt;
 
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/RfdmEo79BA0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/RfdmEo79BA0?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 &lt;/p&gt;
 &lt;!-- **Listen** --&gt;
 &lt;!-- &lt;iframe width=&#34;100%&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/embedded%20user%20id&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=false&amp;show_reposts=false&amp;show_teaser=false&amp;visual=true&#34;&gt;&lt;/iframe&gt;
@@ -911,14 +931,6 @@ Mescola tutte le &lt;strong&gt;cattive intenzioni&lt;/strong&gt; e ridici sopra,
 &lt;li&gt;Simone - Bass&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;!-- ### Made together:
-
-**Video recording session @ Cabot Cove**
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
- --&gt;
 &lt;!-- ### Listen: --&gt;
 &lt;!-- Insert here a spotify or soundcloud user link  --&gt;
 &lt;!-- &lt;iframe width=&#34;100%&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34; src=&#34;https://open.spotify.com/embed/artist/11KtyYLoqHmNxuPqHiBmGo?si=PJ5F5ozYRLiU4F8SCo1KaQ&#34;&gt;&lt;/iframe&gt;
@@ -943,14 +955,6 @@ Mescola tutte le &lt;strong&gt;cattive intenzioni&lt;/strong&gt; e ridici sopra,
 &lt;li&gt;Francesco - Batteria/Voci/Trigger&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;!-- ### Made together:
-
-**Video recording session @ Cabot Cove**
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
- --&gt;
 &lt;!-- ### Listen: --&gt;
 &lt;!-- Insert here a spotify or soundcloud user link  --&gt;
 &lt;!-- &lt;iframe width=&#34;100%&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34; src=&#34;https://open.spotify.com/embed/artist/11KtyYLoqHmNxuPqHiBmGo?si=PJ5F5ozYRLiU4F8SCo1KaQ&#34;&gt;&lt;/iframe&gt;
